@@ -1,0 +1,10 @@
+import random
+
+list_n0fx = ["A", "B", "C", "D"]
+chooser = random.choice
+chosen = chooser(list_n0fx)
+print(f"You random item is {chosen}")
+else :
+print("باختی !!!")
+shomare-=1
+print("\n\n")
